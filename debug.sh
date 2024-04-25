@@ -1,0 +1,1 @@
+bochs -f bocsh_config
